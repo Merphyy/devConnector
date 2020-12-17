@@ -1,6 +1,0 @@
-{
-    "mongoURL" : "mongodb+srv://merphy123:merphy123@devconnector.r4mnr.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret" : "mysecrettoken",
-    "githubClientId": "b0f446f26cf4ee98e301",
-    "githubSecret" : "1c660b7599357a59a8fb39243e331783116f90e1"
-}
